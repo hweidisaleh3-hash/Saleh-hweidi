@@ -1,0 +1,23 @@
+{
+ "name": "قافلة الأرقام — رياضيات الصفوف ١–٣",
+ "short_name": "قافلة الأرقام",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#F7EEDD",
+ "theme_color": "#E07A2F",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "scope": "./"
+}
